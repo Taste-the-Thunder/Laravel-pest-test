@@ -1,6 +1,8 @@
 <x-layout.app>
     <x-slot name="header">
-        Home
+        Bookfriends
     </x-slot>
-    Hello
+    <div class="mt-8">
+        Sign up to get started
+    </div>
 </x-layout.app>
